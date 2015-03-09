@@ -1,0 +1,6 @@
+tornado==3.2
+websocket-client
+gevent
+requests
+motor
+boom
